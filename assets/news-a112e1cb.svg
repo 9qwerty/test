@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="radio-solid.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2318"
+       x="-0.10932839"
+       y="-0.10919396"
+       width="1.2445895"
+       height="1.2445676">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2308" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2310" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="5"
+         result="blur"
+         id="feGaussianBlur2312" />
+      <feOffset
+         dx="10"
+         dy="10"
+         result="offset"
+         id="feOffset2314" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2316" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#b15100"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.1103786"
+     inkscape:cx="570.97641"
+     inkscape:cy="288.64028"
+     inkscape:window-width="2400"
+     inkscape:window-height="1261"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 435.16243,99.201337 C 444.69034,96.42549 450.16701,86.372421 447.39116,76.844512 444.61532,67.316603 434.56225,61.839931 424.95932,64.690801 L 102.73594,159.14464 c -7.052155,2.02562 -13.429102,5.47667 -18.830751,9.90302 -12.078688,8.70266 -19.956093,22.88199 -19.956093,38.93689 v 3.00092 81.02473 108.03299 c 0,26.48308 21.531574,48.01466 48.014664,48.01466 h 288.08795 c 26.48309,0 48.01466,-21.53158 48.01466,-48.01466 V 207.98455 c 0,-26.48309 -21.53157,-48.01466 -48.01466,-48.01466 H 227.87414 Z M 340.03339,243.99554 a 60.018325,60.018325 0 1 1 0,120.03665 60.018325,60.018325 0 1 1 0,-120.03665 z m -216.06597,12.00367 c 0,-6.60202 5.40165,-12.00367 12.00366,-12.00367 h 72.02199 c 6.60202,0 12.00367,5.40165 12.00367,12.00367 0,6.60201 -5.40165,12.00366 -12.00367,12.00366 h -72.02199 c -6.60201,0 -12.00366,-5.40165 -12.00366,-12.00366 z m -12.00366,48.01466 c 0,-6.60202 5.40164,-12.00367 12.00366,-12.00367 h 96.02932 c 6.60201,0 12.00366,5.40165 12.00366,12.00367 0,6.60201 -5.40165,12.00366 -12.00366,12.00366 h -96.02932 c -6.60202,0 -12.00366,-5.40165 -12.00366,-12.00366 z m 12.00366,48.01466 c 0,-6.60202 5.40165,-12.00367 12.00366,-12.00367 h 72.02199 c 6.60202,0 12.00367,5.40165 12.00367,12.00367 0,6.60201 -5.40165,12.00366 -12.00367,12.00366 h -72.02199 c -6.60201,0 -12.00366,-5.40165 -12.00366,-12.00366 z"
+     id="path2301"
+     style="stroke-width:60;fill:none;fill-opacity:1;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1;filter:url(#filter2318)"
+     inkscape:label="bg" />
+  <!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+  <path
+     d="M 435.16243,99.201337 C 444.69034,96.42549 450.16701,86.372421 447.39116,76.844512 444.61532,67.316603 434.56225,61.839931 424.95932,64.690801 L 102.73594,159.14464 c -7.052155,2.02562 -13.429102,5.47667 -18.830751,9.90302 -12.078688,8.70266 -19.956093,22.88199 -19.956093,38.93689 v 3.00092 81.02473 108.03299 c 0,26.48308 21.531574,48.01466 48.014664,48.01466 h 288.08795 c 26.48309,0 48.01466,-21.53158 48.01466,-48.01466 V 207.98455 c 0,-26.48309 -21.53157,-48.01466 -48.01466,-48.01466 H 227.87414 Z M 340.03339,243.99554 a 60.018325,60.018325 0 1 1 0,120.03665 60.018325,60.018325 0 1 1 0,-120.03665 z m -216.06597,12.00367 c 0,-6.60202 5.40165,-12.00367 12.00366,-12.00367 h 72.02199 c 6.60202,0 12.00367,5.40165 12.00367,12.00367 0,6.60201 -5.40165,12.00366 -12.00367,12.00366 h -72.02199 c -6.60201,0 -12.00366,-5.40165 -12.00366,-12.00366 z m -12.00366,48.01466 c 0,-6.60202 5.40164,-12.00367 12.00366,-12.00367 h 96.02932 c 6.60201,0 12.00366,5.40165 12.00366,12.00367 0,6.60201 -5.40165,12.00366 -12.00366,12.00366 h -96.02932 c -6.60202,0 -12.00366,-5.40165 -12.00366,-12.00366 z m 12.00366,48.01466 c 0,-6.60202 5.40165,-12.00367 12.00366,-12.00367 h 72.02199 c 6.60202,0 12.00367,5.40165 12.00367,12.00367 0,6.60201 -5.40165,12.00366 -12.00367,12.00366 h -72.02199 c -6.60201,0 -12.00366,-5.40165 -12.00366,-12.00366 z"
+     id="path2"
+     style="display:inline;fill:#de5147;fill-opacity:1;stroke:#40396e;stroke-width:15;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:label="obj" />
+</svg>
